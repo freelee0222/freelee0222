@@ -10,4 +10,4 @@ I'm Free Clements, a technology enthusiast with a unique journey through the wor
 - 🔧 Tools: Familiar with GitHub for version control, facilitating collaboration and maintaining the integrity of project codebases.
 
 ## Let's Connect!
-- LinkedIn: [../www.linkedin.com/in/free-clements](www.linkedin.com/in/free-clements)
+- LinkedIn: [http://www.linkedin.com/in/free-clements](www.linkedin.com/in/free-clements)
